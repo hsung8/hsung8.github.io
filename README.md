@@ -7,7 +7,7 @@ Building on my geography and landscape architecture background, knowledge, and s
 
 ## Preview
 This page includes short resume and projects of mine. <br>
-![Image of main page](assets/main1.jpg)
+![Image of main page](assets/main1.JPG)
 
 ## Skills
 ##### Full-stack Development
