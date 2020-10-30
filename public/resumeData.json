@@ -1,0 +1,110 @@
+{
+  "resume": {
+    "education": [
+      {
+        "school": "Georgia Institute of Technology - Coding Boot Camp",
+        "degree": "Full-Stack Developer Certificate",
+        "graduated": "Nov 2020",
+        "description": ""
+      },
+      {
+        "school": "Georgia State University",
+        "degree": "Marters in Geoscience, Geography",
+        "graduated": "May 2019",
+        "description": "Graduated with Honor"
+      },
+      {
+        "school": "Seoul National University",
+        "degree": "Masters in Landscape Architecture",
+        "graduated": "Feb 2014",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Atlanta Regional Commission",
+        "title": "Senior Data Analyst",
+        "years": "Dec 2018 - Present",
+        "description": "Analyzing demographic, economic, housing, and social data to understand Atlanta better."
+      },
+      {
+        "company": "WWF-Korea",
+        "title": "Programme Officer - Policy & Advocacy",
+        "years": "Feb 2014 - Dec 2016",
+        "description": "Advocatating climate change related policies."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "65%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "R",
+        "level": "95%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Employee Directory",
+        "category": "Bootstrapped with React",
+        "image": "react-emp-list.jpg",
+        "url": "https://hsung8.github.io/React-Employee-Directory/"
+      },
+      {
+        "title": "Calorie Tracker - Calsengine",
+        "category": "MySQL, ExpressJS, NodeJS",
+        "image": "calsengine.JPG",
+        "url": "https://nameless-forest-69111.herokuapp.com/"
+      },
+      {
+        "title": "COVID-19 Effects on News Coverage",
+        "category": "News Artical API using AJAX",
+        "image": "covid.JPG",
+        "url": "https://cotec4.github.io/Pandemic-Effects/"
+      },
+      {
+        "title": "Online Offline Budget Trackers",
+        "category": "PWA - Webpack, Service workers, IndexedDB ",
+        "image": "pwa.jpg",
+        "url": "https://quiet-falls-63309.herokuapp.com/"
+      },
+      {
+        "title": "Note Taker",
+        "category": "MongoDB, ExpressJS, NodeJS",
+        "image": "notetaker.gif",
+        "url": "https://morning-fortress-33024.herokuapp.com/"
+      },
+      {
+        "title": "Weather Dashboard",
+        "category": "Weather API using AJAX",
+        "image": "weatherDashboard.png",
+        "url": "https://hsung8.github.io/Weather-Dashboard/"
+      },
+      {
+        "title": "Readme Generator",
+        "category": "Command-line application using Inquirer, NodeJS",
+        "image": "ReadmeDemo.gif",
+        "url": "https://github.com/hsung8/ReadmeGenerator"
+      }
+    ]
+  }
+}
